@@ -13,7 +13,7 @@
 1. Select Save Option (ex. Decide Later...)
 1. Select Menu [Extras]-[Plugins]
 1. Click [Add]
-1. Input https://rawgit.com/sakazuki/step-functions-draw.io/master/aws-step-functions.js
+1. Input https://rawgit.com/GetWala/step-functions-draw.io/master/aws-step-functions.js
 1. [Apply]
 1. Reload the page
 
