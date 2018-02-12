@@ -1095,6 +1095,7 @@ Draw.loadPlugin(function(ui) {
     if (cell.target != null){
       var data = {
         ErrorEquals: errors,
+        ResultPath: cells[cell.target.id].getAttribute("result_path"),
         Next: cells[cell.target.id].getAttribute("label")
       }
       return data;
